@@ -1,14 +1,4 @@
-/*
-===============================================
-Program 12 : Prime Number
-===============================================
-Description : This program checks whether a
-              given number is Prime or Not.
 
-Author      : Hansika Manikandan
-Language    : C
-===============================================
-*/
 
 #include <stdio.h>
 
